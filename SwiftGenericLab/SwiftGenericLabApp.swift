@@ -4,6 +4,7 @@
 //
 //  Created by tunko on 11/26/23.
 //
+// 가나다라
 
 import SwiftUI
 
